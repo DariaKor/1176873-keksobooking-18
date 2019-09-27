@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарья Курнева](https://up.htmlacademy.ru/javascript/18/user/1176873).
-* Наставник: `Неизвестно`.
+* Наставник: `Даниил Царев`.
 
 ---
 
